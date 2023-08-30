@@ -1,0 +1,12 @@
+{
+  "name": "himeko-bot",
+  "version": "1.0.0",
+  "description": "discord anime wife",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Brian Mai",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
