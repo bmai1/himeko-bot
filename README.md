@@ -1,2 +1,3 @@
 Provisional Command List
-/himeko ("Hello.")
+<br> 
+/himeko ("Hello!")
