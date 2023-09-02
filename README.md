@@ -1,3 +1,1 @@
-Provisional Command List
-<br> 
-/himeko ("Hello!")
+the only she does is talk to you lol
